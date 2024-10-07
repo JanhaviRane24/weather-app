@@ -1,3 +1,4 @@
 Weather app used to tell weather condition of city
 
-app link:
+app link:https://janujagruti.github.io/weather-app/
+
